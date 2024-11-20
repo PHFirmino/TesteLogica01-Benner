@@ -8,7 +8,7 @@ namespace TesteLogico01
 {
     internal class Network
     {
-        private int numbersOfElementsInSet { get; set; }
+        private int numbersOfElementsInSet;
         private List<int> list = new List<int>();
         private List<Pairs> pairs = new List<Pairs>();
 
