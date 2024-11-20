@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\bin\Debug\net7.0\TesteLogico01.exe
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\bin\Debug\net7.0\TesteLogico01.deps.json
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\bin\Debug\net7.0\TesteLogico01.runtimeconfig.json
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\bin\Debug\net7.0\TesteLogico01.dll
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\bin\Debug\net7.0\TesteLogico01.pdb
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\obj\Debug\net7.0\TesteLogico01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\obj\Debug\net7.0\TesteLogico01.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\obj\Debug\net7.0\TesteLogico01.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\obj\Debug\net7.0\TesteLogico01.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\obj\Debug\net7.0\TesteLogico01.dll
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\obj\Debug\net7.0\refint\TesteLogico01.dll
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\obj\Debug\net7.0\TesteLogico01.pdb
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\obj\Debug\net7.0\TesteLogico01.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\TesteLogico01\TesteLogico01\obj\Debug\net7.0\ref\TesteLogico01.dll
